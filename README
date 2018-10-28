@@ -1,7 +1,7 @@
 Candy data from FiveThirtyEight
 https://raw.githubusercontent.com/fivethirtyeight/data/master/candy-power-ranking/candy-data.csv
 
-Meanings of the columns:
+Column descriptions:
 competitorname   - Name of the candy
 chocolate        - Does it contain chocolate?
 fruity           - Is it fruit flavored?
