@@ -1,5 +1,5 @@
 // Activity 2
-// Question 2: find the maximum sugarpercentage of fruity candies
+// Question 2: find the maximum sugarpercent of fruity candies
 String path = "./candy-data.csv";
 String allCandyData = readFile(path);
 int fruityColIndex = 2;
