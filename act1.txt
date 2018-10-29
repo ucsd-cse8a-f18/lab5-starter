@@ -1,0 +1,21 @@
+String ex1 = commafy("abc");
+String ex2 = commafy("def");
+String ex3 = commafy("ghi");
+
+int ex4 = numColumns("a,b,c");
+int ex5 = numColumns("d,e");
+int ex6 = numColumns("f");
+
+String ex7 = dataAtColumn(row,0);
+String ex8 = dataAtColumn(row,1);
+String ex9 = dataAtColumn(row,2);
+
+int ex10 = intAtColumn(row,3);
+int ex11 = intAtColumn(row,4);
+
+double ex12 = doubleAtColumn(row,5);
+double ex13 = doubleAtColumn(row,6);
+
+double ex14 = getLatitude(readLine(row,1));
+
+double ex15 = getLongtitude(readLine(row,3));
