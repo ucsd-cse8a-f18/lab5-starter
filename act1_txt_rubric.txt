@@ -1,0 +1,26 @@
+Points Description
+  +3   commafy examples present
+  +3   numColumns examples present
+  +3   dataAtColumn examples present
+  +3   intAtColumn examples present
+  +3   doubleAtColumn examples present
+  +3   getLatitude examples present
+  +3   getLongitude examples present
+  +3   radiusFromRow examples present
+
+  -1   Deduction: one or more errors in commafy examples
+  -1   Deduction: one or more errors in numColumns examples
+  -1   Deduction: one or more errors in dataAtColumn examples
+  -1   Deduction: one or more errors in intAtColumn examples
+  -1   Deduction: one or more errors in doubleAtColumn examples
+  -1   Deduction: one or more errors in getLatitude examples
+  -1   Deduction: one or more errors in getLongitude examples
+  -1   Deduction: one or more errors in radiusFromRow examples
+  -1   Deduction: only 1 or 2 examples for commafy
+  -1   Deduction: only 1 or 2 examples for numColumns
+  -1   Deduction: only 1 or 2 examples for dataAtColumn
+  -1   Deduction: only 1 or 2 examples for intAtColumn
+  -1   Deduction: only 1 or 2 examples for doubleAtColumn
+  -1   Deduction: only 1 or 2 examples for getLatitude
+  -1   Deduction: only 1 or 2 examples for getLongitude
+  -1   Deduction: only 1 or 2 examples for radiusFromRow
