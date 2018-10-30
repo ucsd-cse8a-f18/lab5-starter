@@ -1,4 +1,4 @@
-tring path = "data/cities.csv"
+String path = "data/cities.csv"
 int latColIndex = 3
 int longColIndex = 4
 
