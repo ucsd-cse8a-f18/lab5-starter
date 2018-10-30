@@ -18,4 +18,4 @@ int isNutty(String rowData) {
 String allCandyData = readFile(path);
 String chocolateyCandy = filter(allCandyData, r->hasChocolate(r));
 String nuttyCandy = filter(allCandyData, r->isNutty(r));
-double meanChocoNuttyWinPercent = doubleInt(nuttyCandy, winPercentColIndex);
+double meanChocoNuttyWinPercent = doubleToInt(nuttyCandy, winPercentColIndex);
